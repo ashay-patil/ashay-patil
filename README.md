@@ -1,9 +1,9 @@
 # Hey, I'm Ashay 👋
 
-I dream big.
-I rethink what I code.
-I win occasionally.
-I fail often.
+`I dream big.` <br>
+`I rethink what I code.` <br>
+`I win occasionally.` <br>
+`I fail often.` <br>
 
 **Still, I build !**
 
