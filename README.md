@@ -1,12 +1,12 @@
 # Hey, I'm Ashay 👋
 
 `I dream big.` <br>
-`I rethink what I code.` <br>
+`I overthink what I code.` <br>
 `I win occasionally.` <br>
 `I fail often.` <br>
 
-**Still, I build !**
+**Still, I build !!**
 
-I believe in mutual growth — *if we grow, we grow together.*
+*If we grow, we grow together. Let's collaborate...*
 
 > Yeahh ... That's all about me 😉.
